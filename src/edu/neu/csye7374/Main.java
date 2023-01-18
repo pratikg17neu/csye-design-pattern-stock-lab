@@ -13,7 +13,7 @@ public class Main {
 
 		
 		Stock stock1 = new Intel("1", 50.0, 0, "Intel", "Intel Stock", null);
-		Stock stock2 = new Asus("1", 250.0, 0, "Asus", "Asus Stock", null);
+		Stock stock2 = new Asus("2", 250.0, 0, "Asus", "Asus Stock", null);
 		
 		market.addStock(stock1);
 		market.addStock(stock2);
